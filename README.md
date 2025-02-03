@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1ee12d7-fa06-423d-9d1a-05f6966e45da" alt="Chat-App"/>
 </p>
+
 # Connectify Chat App (WhatsApp Clone)
 A real-time messaging chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js) with Socket.io for real-time communication and Redux Toolkit for state management. This project enables seamless user authentication, live messaging, and media sharing.
 
