@@ -3,7 +3,7 @@ import { PiUserCircle } from "react-icons/pi";
 import { useSelector } from 'react-redux';
 
 const Avatar = ({userId,name,imageUrl,width,height}) => {
-    const onlineUser = useSelector(state => state?.user?.onlineUser) //this one is for sidebar, when user try to enter password, then this is blank and no grren color shows. we are updating this in home page so it will staer showing green color on sidebar
+    const onlineUser = useSelector(state => state?.user?.onlineUser) 
 
     let avatarName = ""
 
