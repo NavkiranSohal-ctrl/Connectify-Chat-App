@@ -1,0 +1,1 @@
+A real-time messaging chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js) with Socket.io for real-time communication and Redux Toolkit for state management. This project enables seamless user authentication, live messaging, and media sharing.
