@@ -1,7 +1,7 @@
 # WhatsApp Clone (Connectify Chat-App)
 A real-time messaging **Chat App** built using **React, Socket.io, Node.js, Redux-Toolkit, and MongoDB**.
 
- **Live Demo:** https://connectify-chat-app-five.vercel.app/
+ **Live Demo:** https://connectify-chat-app-neon.vercel.app/
 
 ### Features
     User Authentication: Secure login and registration using JWT.
